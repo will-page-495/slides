@@ -47,21 +47,22 @@ async function zip(btn,v){const old=btn.textContent;btn.textContent='Preparing�
   const blob=await z.generateAsync({type:'blob'});await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_slides.zip',data:blob});btn.textContent='Saved'}
  catch(e){btn.textContent=(e&&e.code==='declined')?old:'Could not save: press and hold a slide'}
  btn.disabled=false;setTimeout(()=>btn.textContent=old,2500)}
-async function photos(btn,v){const old=btn.textContent;btn.disabled=true;
- try{btn.textContent='Preparing…';
-  const files=await Promise.all(v.slides.map(async s=>{const r=await fetch(s.full);return new File([await r.blob()],v.date+'_'+v.time.replace(':','')+'_'+s.name,{type:'image/jpeg'})}));
-  if(navigator.canShare&&navigator.canShare({files})){try{await navigator.share({files});btn.textContent='Done';btn.disabled=false;setTimeout(()=>btn.textContent=old,2500);return}catch(e){if(e&&e.name==='AbortError'){btn.textContent=old;btn.disabled=false;return}}}
-  const dl=await claude.use('downloads');if(!dl){btn.textContent='Not available here: press and hold a slide';btn.disabled=false;return}
-  const z=new JSZip();files.forEach(f=>z.file(f.name,f));
-  await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_slides.zip',data:await z.generateAsync({type:'blob'})});btn.textContent='Saved (zip)'}
- catch(e){btn.textContent=(e&&e.code==='declined')?old:'Could not save: press and hold a slide'}
- btn.disabled=false;setTimeout(()=>btn.textContent=old,2500)}
+function prep(v){if(!v._p)v._p=Promise.all(v.slides.map(async s=>{const r=await fetch(s.full);return new File([await r.blob()],v.date+'_'+v.time.replace(':','')+'_'+s.name,{type:'image/jpeg'})})).then(f=>v._files=f);return v._p}
+function flash(btn,t,old){btn.textContent=t;btn.disabled=false;setTimeout(()=>btn.textContent=old,3500)}
+async function zipFallback(btn,v,old,why){try{const dl=await claude.use('downloads');if(!dl){flash(btn,'Share blocked ('+why+')',old);return}
+  const z=new JSZip();v._files.forEach(f=>z.file(f.name,f));
+  await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_slides.zip',data:await z.generateAsync({type:'blob'})});flash(btn,'Saved as zip (Files only)',old)}
+ catch(e){flash(btn,(e&&e.code==='declined')?old:'Could not save ('+why+')',old)}}
+function photos(btn,v){const old=btn.textContent;btn.disabled=true;
+ if(!v._files){btn.textContent='Preparing, tap again…';prep(v).then(()=>{btn.disabled=false;btn.textContent=old});return}
+ if(!(navigator.share&&navigator.canShare&&navigator.canShare({files:v._files}))){zipFallback(btn,v,old,'no file sharing here');return}
+ navigator.share({files:v._files}).then(()=>flash(btn,'Done',old)).catch(e=>{if(e&&e.name==='AbortError'){btn.disabled=false;return}zipFallback(btn,v,old,(e&&e.name)||'error')})}
 function card(v){const c=el('section','card');const h=el('div','head');h.append(el('span','time',v.time),el('h3','title',v.title));c.append(h);
  const s=el('div','strip');v.slides.forEach((x,i)=>{const a=el('a');a.href=x.full;a.target='_blank';a.rel='noopener';const im=new Image();im.src=x.th;im.alt='Slide '+(i+1)+' of '+v.slides.length;im.loading='lazy';a.append(im);s.append(a)});c.append(s);
  const b=el('div','btns');const z=el('button','','Download zip');z.onclick=()=>zip(z,v);
  const t=el('button','','Copy TikTok caption');t.dataset.k='tt';t.onclick=()=>copy(t,v.tiktok);
  const i=el('button','','Copy Instagram caption');i.dataset.k='ig';i.onclick=()=>copy(i,v.insta);
- const ti=el('button','','Copy title');ti.dataset.k='ti';ti.onclick=()=>copy(ti,v.title);const ph=el('button','primary','Save photos (camera roll)');ph.onclick=()=>photos(ph,v);b.append(ph,z,t,i,ti);c.append(b);
+ const ti=el('button','','Copy title');ti.dataset.k='ti';ti.onclick=()=>copy(ti,v.title);const ph=el('button','primary','Save photos (camera roll)');ph.onclick=()=>photos(ph,v);try{new IntersectionObserver((e,o)=>{if(e[0].isIntersecting){prep(v);o.disconnect()}}).observe(c)}catch(e){}b.append(ph,z,t,i,ti);c.append(b);
  c.append(el('p','hint','Slides are in posting order. On a phone, press and hold a slide to save it.'));
  for(const [k,l,tx] of [['tt','TikTok caption',v.tiktok],['ig','Instagram caption',v.insta],['ti','Title',v.title]]){const d=el('details');d.dataset.k=k;d.append(el('summary','',l),el('pre','',tx));c.append(d)}
  return c}
