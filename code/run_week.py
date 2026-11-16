@@ -62,8 +62,8 @@ for date,slot,n,d in docs:
     if miss: problems.append((n,'missing photos: '+', '.join(miss))); continue
     out=f'{ROOT}/slides/{date}-s{slot}-{n}'
     files=build(n,d,out)
-    tags=' '.join(d['hashtags'].split()[:5])
-    man.append(dict(doc=n,date=date,slot=slot,when=when,title=d['title'],tiktok_text=d['captions']['tiktok']+'\n\n'+tags,ig_text=d['captions']['instagram']+'\n\n'+tags,
+    tags=' '.join(d['hashtags'].split()[:5]); fix=lambda t: re.sub(r'\b1 nights\b','1 night',t)
+    man.append(dict(doc=n,date=date,slot=slot,when=when,title=d['title'],tiktok_text=fix(d['captions']['tiktok'])+'\n\n'+tags,ig_text=fix(d['captions']['instagram'])+'\n\n'+tags,
         media=[RAW+f"slides/{date}-s{slot}-{n}/{f}" for f in files],
         dest_ids=[sid.get(x['city']+'|'+x['country']) for x in d['destinations']],slug=slug(d['title']),published_on=date))
 json.dump(dict(videos=man,problems=problems),open(f'{ROOT}/slides/manifest_{a.a}_{a.b}.json','w'),ensure_ascii=False,indent=1)
