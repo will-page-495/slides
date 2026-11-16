@@ -48,10 +48,13 @@ async function zip(btn,v){const old=btn.textContent;btn.textContent='Preparing�
  catch(e){btn.textContent=(e&&e.code==='declined')?old:'Could not save: press and hold a slide'}
  btn.disabled=false;setTimeout(()=>btn.textContent=old,2500)}
 async function photos(btn,v){const old=btn.textContent;btn.disabled=true;
- try{const dl=await claude.use('downloads');if(!dl){btn.textContent='Not available here: press and hold a slide';btn.disabled=false;return}
-  for(let n=0;n<v.slides.length;n++){const s=v.slides[n];btn.textContent='Saving '+(n+1)+' of '+v.slides.length+'…';const r=await fetch(s.full);await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_'+s.name,data:await r.blob()})}
-  btn.textContent='All saved'}
- catch(e){btn.textContent=(e&&e.code==='declined')?'Stopped':'Could not save: press and hold a slide'}
+ try{btn.textContent='Preparing…';
+  const files=await Promise.all(v.slides.map(async s=>{const r=await fetch(s.full);return new File([await r.blob()],v.date+'_'+v.time.replace(':','')+'_'+s.name,{type:'image/jpeg'})}));
+  if(navigator.canShare&&navigator.canShare({files})){try{await navigator.share({files});btn.textContent='Done';btn.disabled=false;setTimeout(()=>btn.textContent=old,2500);return}catch(e){if(e&&e.name==='AbortError'){btn.textContent=old;btn.disabled=false;return}}}
+  const dl=await claude.use('downloads');if(!dl){btn.textContent='Not available here: press and hold a slide';btn.disabled=false;return}
+  const z=new JSZip();files.forEach(f=>z.file(f.name,f));
+  await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_slides.zip',data:await z.generateAsync({type:'blob'})});btn.textContent='Saved (zip)'}
+ catch(e){btn.textContent=(e&&e.code==='declined')?old:'Could not save: press and hold a slide'}
  btn.disabled=false;setTimeout(()=>btn.textContent=old,2500)}
 function card(v){const c=el('section','card');const h=el('div','head');h.append(el('span','time',v.time),el('h3','title',v.title));c.append(h);
  const s=el('div','strip');v.slides.forEach((x,i)=>{const a=el('a');a.href=x.full;a.target='_blank';a.rel='noopener';const im=new Image();im.src=x.th;im.alt='Slide '+(i+1)+' of '+v.slides.length;im.loading='lazy';a.append(im);s.append(a)});c.append(s);
