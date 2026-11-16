@@ -57,7 +57,7 @@ function card(v){const c=el('section','card');const h=el('div','head');h.append(
  for(const [k,l,tx] of [['tt','TikTok caption',v.tiktok],['ig','Instagram caption',v.insta],['ti','Title',v.title]]){const d=el('details');d.dataset.k=k;d.append(el('summary','',l),el('pre','',tx));c.append(d)}
  return c}
 const days=[...new Set(VIDEOS.map(v=>v.date))];
-const top=el('div');top.append(el('h1','','TripFlux weekly pack'),el('p','sub',VIDEOS.length?'Post the slides in order, then paste the caption. Twelve o’clock and six o’clock slots.':'Nothing queued.'));app.append(top);
+const topbar=el('div');topbar.append(el('h1','','TripFlux weekly pack'),el('p','sub',VIDEOS.length?'Post the slides in order, then paste the caption. Twelve o’clock and six o’clock slots.':'Nothing queued.'));app.append(topbar);
 if(!VIDEOS.length)app.append(el('p','empty','No videos in this pack.'));
 days.forEach(d=>{const w=el('div','day');const h=el('h2','',fmt(d));if(d===lon)h.append(el('span','tag','Today'));else if(d>lon)h.append(el('span','tag','Next'));w.append(h);VIDEOS.filter(v=>v.date===d).forEach(v=>w.append(card(v)));app.append(w)});
 </script>
