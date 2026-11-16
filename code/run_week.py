@@ -47,12 +47,12 @@ def build(name,doc,outdir):
     return files
 def slug(t): return re.sub('-+','-',re.sub('[^a-z0-9]+','-',norm(t).replace("'",''))).strip('-')
 ap=argparse.ArgumentParser(); ap.add_argument('--docs',required=True); ap.add_argument('--from',dest='a',required=True); ap.add_argument('--to',dest='b',required=True)
-ap.add_argument('--min-time',default='')
+ap.add_argument('--min-time',default=''); ap.add_argument('--ignore-metricool',action='store_true')
 a=ap.parse_args()
 docs=[]
 for f in glob.glob(a.docs+'/*.json'):
     d=json.load(open(f)); n=os.path.basename(f)[:-5]
-    if d.get('status')=='drafted' and a.a<=d['date']<=a.b and not d.get('metricool'): docs.append((d['date'],d['slot'],n,d))
+    if d.get('status')=='drafted' and a.a<=d['date']<=a.b and (a.ignore_metricool or not d.get('metricool')): docs.append((d['date'],d['slot'],n,d))
 docs.sort(key=lambda x:(x[0],x[1]))
 man=[];problems=[]
 for date,slot,n,d in docs:
