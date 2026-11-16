@@ -1,0 +1,1550 @@
+{
+ "have": [
+  {
+   "city": "Córdoba",
+   "country": "Spain",
+   "folder": "Cordoba",
+   "photos": 1,
+   "first": "2026-11-02",
+   "uses": 4
+  },
+  {
+   "city": "Samarkand",
+   "country": "Uzbekistan",
+   "folder": "Samarkand",
+   "photos": 2,
+   "first": "2026-11-02",
+   "uses": 4
+  },
+  {
+   "city": "Riga",
+   "country": "Latvia",
+   "folder": "Riga",
+   "photos": 1,
+   "first": "2026-11-02",
+   "uses": 5
+  },
+  {
+   "city": "Lisbon",
+   "country": "Portugal",
+   "folder": "Lisbon",
+   "photos": 4,
+   "first": "2026-11-02",
+   "uses": 4
+  },
+  {
+   "city": "Cairo",
+   "country": "Egypt",
+   "folder": "Cairo",
+   "photos": 1,
+   "first": "2026-11-02",
+   "uses": 4
+  },
+  {
+   "city": "Medellín",
+   "country": "Colombia",
+   "folder": "Medellin",
+   "photos": 2,
+   "first": "2026-11-02",
+   "uses": 3
+  },
+  {
+   "city": "Ohrid",
+   "country": "North Macedonia",
+   "folder": "Ohrid",
+   "photos": 11,
+   "first": "2026-11-03",
+   "uses": 4
+  },
+  {
+   "city": "Lucerne",
+   "country": "Switzerland",
+   "folder": "Lucerne",
+   "photos": 4,
+   "first": "2026-11-03",
+   "uses": 4
+  },
+  {
+   "city": "Hoi An",
+   "country": "Vietnam",
+   "folder": "Hoi An",
+   "photos": 3,
+   "first": "2026-11-03",
+   "uses": 3
+  },
+  {
+   "city": "Kyoto",
+   "country": "Japan",
+   "folder": "Kyoto",
+   "photos": 3,
+   "first": "2026-11-03",
+   "uses": 3
+  },
+  {
+   "city": "Plovdiv",
+   "country": "Bulgaria",
+   "folder": "Plovdiv",
+   "photos": 1,
+   "first": "2026-11-03",
+   "uses": 1
+  },
+  {
+   "city": "Merzouga",
+   "country": "Morocco",
+   "folder": "Merzouga",
+   "photos": 1,
+   "first": "2026-11-03",
+   "uses": 4
+  },
+  {
+   "city": "Luang Prabang",
+   "country": "Laos",
+   "folder": "Luang Prabang",
+   "photos": 6,
+   "first": "2026-11-03",
+   "uses": 5
+  },
+  {
+   "city": "Porto",
+   "country": "Portugal",
+   "folder": "Porto",
+   "photos": 5,
+   "first": "2026-11-04",
+   "uses": 4
+  },
+  {
+   "city": "Siargao",
+   "country": "Philippines",
+   "folder": "Siargao",
+   "photos": 2,
+   "first": "2026-11-04",
+   "uses": 4
+  },
+  {
+   "city": "Kathmandu",
+   "country": "Nepal",
+   "folder": "Kathmandu",
+   "photos": 2,
+   "first": "2026-11-04",
+   "uses": 1
+  },
+  {
+   "city": "Ulcinj",
+   "country": "Montenegro",
+   "folder": "Ulcinj",
+   "photos": 1,
+   "first": "2026-11-04",
+   "uses": 1
+  },
+  {
+   "city": "Uyuni",
+   "country": "Bolivia",
+   "folder": "Uyuni",
+   "photos": 1,
+   "first": "2026-11-04",
+   "uses": 2
+  },
+  {
+   "city": "Kotor",
+   "country": "Montenegro",
+   "folder": "Kotor",
+   "photos": 7,
+   "first": "2026-11-05",
+   "uses": 4
+  },
+  {
+   "city": "Dubrovnik",
+   "country": "Croatia",
+   "folder": "Dubrovnik",
+   "photos": 3,
+   "first": "2026-11-05",
+   "uses": 3
+  },
+  {
+   "city": "Wadi Rum",
+   "country": "Jordan",
+   "folder": "Wadi Rum",
+   "photos": 6,
+   "first": "2026-11-05",
+   "uses": 2
+  },
+  {
+   "city": "Marrakech",
+   "country": "Morocco",
+   "folder": "Marrakech",
+   "photos": 7,
+   "first": "2026-11-05",
+   "uses": 4
+  },
+  {
+   "city": "Ubud",
+   "country": "Indonesia",
+   "folder": "Ubud",
+   "photos": 2,
+   "first": "2026-11-05",
+   "uses": 3
+  },
+  {
+   "city": "Chiang Mai",
+   "country": "Thailand",
+   "folder": "Chiang Mai",
+   "photos": 4,
+   "first": "2026-11-05",
+   "uses": 2
+  },
+  {
+   "city": "Kazbegi",
+   "country": "Georgia",
+   "folder": "Kazbegi",
+   "photos": 1,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Paraty",
+   "country": "Brazil",
+   "folder": "Paraty",
+   "photos": 1,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Antigua",
+   "country": "Guatemala",
+   "folder": "Antigua Guatemala",
+   "photos": 3,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Nice",
+   "country": "France",
+   "folder": "Nice",
+   "photos": 1,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Krabi",
+   "country": "Thailand",
+   "folder": "Krabi",
+   "photos": 6,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Tulum",
+   "country": "Mexico",
+   "folder": "Tulum",
+   "photos": 3,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Cartagena",
+   "country": "Colombia",
+   "folder": "Cartagena",
+   "photos": 2,
+   "first": "2026-11-06",
+   "uses": 5
+  },
+  {
+   "city": "Naples",
+   "country": "Italy",
+   "folder": "Naples",
+   "photos": 1,
+   "first": "2026-11-07",
+   "uses": 4
+  },
+  {
+   "city": "Dolomites (Cortina d'Ampezzo)",
+   "country": "Italy",
+   "folder": "Dolomites",
+   "photos": 2,
+   "first": "2026-11-07",
+   "uses": 3
+  },
+  {
+   "city": "Istanbul",
+   "country": "Turkey",
+   "folder": "Istanbul",
+   "photos": 3,
+   "first": "2026-11-07",
+   "uses": 4
+  },
+  {
+   "city": "Hallstatt",
+   "country": "Austria",
+   "folder": "Hallstatt",
+   "photos": 6,
+   "first": "2026-11-07",
+   "uses": 4
+  },
+  {
+   "city": "Mestia",
+   "country": "Georgia",
+   "folder": "Mestia",
+   "photos": 2,
+   "first": "2026-11-07",
+   "uses": 3
+  },
+  {
+   "city": "Bohinj",
+   "country": "Slovenia",
+   "folder": "Bohinj",
+   "photos": 1,
+   "first": "2026-11-07",
+   "uses": 4
+  },
+  {
+   "city": "Nusa Penida",
+   "country": "Indonesia",
+   "folder": "Nusa Penida",
+   "photos": 9,
+   "first": "2026-11-07",
+   "uses": 5
+  },
+  {
+   "city": "Annecy",
+   "country": "France",
+   "folder": "Annecy",
+   "photos": 1,
+   "first": "2026-11-07",
+   "uses": 4
+  },
+  {
+   "city": "Mykonos",
+   "country": "Greece",
+   "folder": "Mykonos",
+   "photos": 1,
+   "first": "2026-11-07",
+   "uses": 3
+  },
+  {
+   "city": "Procida",
+   "country": "Italy",
+   "folder": "Procida",
+   "photos": 1,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Koh Lipe",
+   "country": "Thailand",
+   "folder": "Koh Lipe",
+   "photos": 1,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Naxos",
+   "country": "Greece",
+   "folder": "Naxos",
+   "photos": 1,
+   "first": "2026-11-08",
+   "uses": 3
+  },
+  {
+   "city": "Holbox",
+   "country": "Mexico",
+   "folder": "Holbox",
+   "photos": 3,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Tbilisi",
+   "country": "Georgia",
+   "folder": "Tbilisi",
+   "photos": 5,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Tallinn",
+   "country": "Estonia",
+   "folder": "Tallinn",
+   "photos": 5,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Vilnius",
+   "country": "Lithuania",
+   "folder": "Vilnius",
+   "photos": 3,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Český Krumlov",
+   "country": "Czechia",
+   "folder": "Cesky Krumlov",
+   "photos": 3,
+   "first": "2026-11-09",
+   "uses": 5
+  },
+  {
+   "city": "Plitvice Lakes",
+   "country": "Croatia",
+   "folder": "Plitvice",
+   "photos": 3,
+   "first": "2026-11-09",
+   "uses": 3
+  },
+  {
+   "city": "Santorini",
+   "country": "Greece",
+   "folder": "Santorini",
+   "photos": 6,
+   "first": "2026-11-09",
+   "uses": 4
+  },
+  {
+   "city": "Zanzibar",
+   "country": "Tanzania",
+   "folder": "Zanzibar",
+   "photos": 10,
+   "first": "2026-11-09",
+   "uses": 2
+  },
+  {
+   "city": "Bergen",
+   "country": "Norway",
+   "folder": "Bergen",
+   "photos": 2,
+   "first": "2026-11-09",
+   "uses": 3
+  },
+  {
+   "city": "Valencia",
+   "country": "Spain",
+   "folder": "Valencia",
+   "photos": 3,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Split",
+   "country": "Croatia",
+   "folder": "Split",
+   "photos": 2,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Innsbruck",
+   "country": "Austria",
+   "folder": "Innsbruck",
+   "photos": 3,
+   "first": "2026-11-10",
+   "uses": 3
+  },
+  {
+   "city": "Tenerife",
+   "country": "Spain",
+   "folder": "Tenerife",
+   "photos": 2,
+   "first": "2026-11-10",
+   "uses": 3
+  },
+  {
+   "city": "Rhodes",
+   "country": "Greece",
+   "folder": "Rhodes",
+   "photos": 2,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Belgrade",
+   "country": "Serbia",
+   "folder": "Belgrade",
+   "photos": 2,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Pamukkale",
+   "country": "Turkey",
+   "folder": "Pamukkale",
+   "photos": 3,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Perast",
+   "country": "Montenegro",
+   "folder": "Perast",
+   "photos": 5,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Sarajevo",
+   "country": "Bosnia and Herzegovina",
+   "folder": "Sarajevo",
+   "photos": 1,
+   "first": "2026-11-11",
+   "uses": 4
+  },
+  {
+   "city": "Vis",
+   "country": "Croatia",
+   "folder": "Vis",
+   "photos": 1,
+   "first": "2026-11-11",
+   "uses": 4
+  },
+  {
+   "city": "Florence",
+   "country": "Italy",
+   "folder": "Florence",
+   "photos": 1,
+   "first": "2026-11-11",
+   "uses": 4
+  },
+  {
+   "city": "Palermo",
+   "country": "Italy",
+   "folder": "Palermo",
+   "photos": 2,
+   "first": "2026-11-11",
+   "uses": 5
+  },
+  {
+   "city": "Hanoi",
+   "country": "Vietnam",
+   "folder": "Hanoi",
+   "photos": 2,
+   "first": "2026-11-11",
+   "uses": 3
+  },
+  {
+   "city": "Vík",
+   "country": "Iceland",
+   "folder": "Vik",
+   "photos": 2,
+   "first": "2026-11-12",
+   "uses": 4
+  },
+  {
+   "city": "Lagos",
+   "country": "Portugal",
+   "folder": "Lagos Portugal",
+   "photos": 2,
+   "first": "2026-11-12",
+   "uses": 4
+  },
+  {
+   "city": "Cappadocia",
+   "country": "Turkey",
+   "folder": "Cappadocia",
+   "photos": 6,
+   "first": "2026-11-12",
+   "uses": 5
+  },
+  {
+   "city": "Prague",
+   "country": "Czechia",
+   "folder": "Prague",
+   "photos": 4,
+   "first": "2026-11-13",
+   "uses": 4
+  },
+  {
+   "city": "Budapest",
+   "country": "Hungary",
+   "folder": "Budapest",
+   "photos": 10,
+   "first": "2026-11-13",
+   "uses": 2
+  },
+  {
+   "city": "Seville",
+   "country": "Spain",
+   "folder": "Seville",
+   "photos": 2,
+   "first": "2026-11-13",
+   "uses": 3
+  },
+  {
+   "city": "Kuala Lumpur",
+   "country": "Malaysia",
+   "folder": "Kuala Lumpur",
+   "photos": 1,
+   "first": "2026-11-13",
+   "uses": 3
+  },
+  {
+   "city": "Goa",
+   "country": "India",
+   "folder": "Goa",
+   "photos": 1,
+   "first": "2026-11-13",
+   "uses": 3
+  },
+  {
+   "city": "Athens",
+   "country": "Greece",
+   "folder": "Athens",
+   "photos": 1,
+   "first": "2026-11-14",
+   "uses": 4
+  },
+  {
+   "city": "Kraków",
+   "country": "Poland",
+   "folder": "Krakow",
+   "photos": 8,
+   "first": "2026-11-14",
+   "uses": 5
+  },
+  {
+   "city": "Bucharest",
+   "country": "Romania",
+   "folder": "Bucharest",
+   "photos": 1,
+   "first": "2026-11-14",
+   "uses": 1
+  },
+  {
+   "city": "Venice",
+   "country": "Italy",
+   "folder": "Venice",
+   "photos": 6,
+   "first": "2026-11-14",
+   "uses": 4
+  },
+  {
+   "city": "Milan",
+   "country": "Italy",
+   "folder": "Milan",
+   "photos": 6,
+   "first": "2026-11-14",
+   "uses": 4
+  },
+  {
+   "city": "Petra",
+   "country": "Jordan",
+   "folder": "Petra",
+   "photos": 4,
+   "first": "2026-11-14",
+   "uses": 3
+  },
+  {
+   "city": "Aswan",
+   "country": "Egypt",
+   "folder": "Aswan",
+   "photos": 2,
+   "first": "2026-11-14",
+   "uses": 4
+  },
+  {
+   "city": "Ksamil",
+   "country": "Albania",
+   "folder": "Ksamil",
+   "photos": 8,
+   "first": "2026-11-14",
+   "uses": 2
+  },
+  {
+   "city": "Mostar",
+   "country": "Bosnia and Herzegovina",
+   "folder": "Mostar",
+   "photos": 14,
+   "first": "2026-11-15",
+   "uses": 3
+  },
+  {
+   "city": "Madeira",
+   "country": "Portugal",
+   "folder": "Madeira",
+   "photos": 10,
+   "first": "2026-11-15",
+   "uses": 4
+  },
+  {
+   "city": "Pokhara",
+   "country": "Nepal",
+   "folder": "Pokhara",
+   "photos": 1,
+   "first": "2026-11-15",
+   "uses": 2
+  },
+  {
+   "city": "Chefchaouen",
+   "country": "Morocco",
+   "folder": "Chefchaouen",
+   "photos": 10,
+   "first": "2026-11-16",
+   "uses": 4
+  },
+  {
+   "city": "Salzburg",
+   "country": "Austria",
+   "folder": "Salzburg",
+   "photos": 1,
+   "first": "2026-11-16",
+   "uses": 3
+  },
+  {
+   "city": "Munich",
+   "country": "Germany",
+   "folder": "Munich",
+   "photos": 1,
+   "first": "2026-11-16",
+   "uses": 3
+  },
+  {
+   "city": "Tromsø",
+   "country": "Norway",
+   "folder": "Tromso",
+   "photos": 2,
+   "first": "2026-11-16",
+   "uses": 3
+  },
+  {
+   "city": "Polignano a Mare",
+   "country": "Italy",
+   "folder": "Polignano a Mare",
+   "photos": 1,
+   "first": "2026-11-17",
+   "uses": 4
+  },
+  {
+   "city": "Oaxaca",
+   "country": "Mexico",
+   "folder": "Oaxaca",
+   "photos": 1,
+   "first": "2026-11-17",
+   "uses": 4
+  },
+  {
+   "city": "Coron",
+   "country": "Philippines",
+   "folder": "Coron",
+   "photos": 4,
+   "first": "2026-11-17",
+   "uses": 4
+  },
+  {
+   "city": "Verona",
+   "country": "Italy",
+   "folder": "Verona",
+   "photos": 1,
+   "first": "2026-11-18",
+   "uses": 3
+  },
+  {
+   "city": "Isla Mujeres",
+   "country": "Mexico",
+   "folder": "Isla Mujeres",
+   "photos": 2,
+   "first": "2026-11-18",
+   "uses": 5
+  },
+  {
+   "city": "Bacalar",
+   "country": "Mexico",
+   "folder": "Bacalar",
+   "photos": 8,
+   "first": "2026-11-18",
+   "uses": 3
+  },
+  {
+   "city": "Gozo",
+   "country": "Malta",
+   "folder": "Gozo",
+   "photos": 2,
+   "first": "2026-11-18",
+   "uses": 4
+  },
+  {
+   "city": "Da Nang",
+   "country": "Vietnam",
+   "folder": "Da Nang",
+   "photos": 3,
+   "first": "2026-11-19",
+   "uses": 4
+  },
+  {
+   "city": "Valletta",
+   "country": "Malta",
+   "folder": "Valletta",
+   "photos": 6,
+   "first": "2026-11-19",
+   "uses": 3
+  },
+  {
+   "city": "Berat",
+   "country": "Albania",
+   "folder": "Berat",
+   "photos": 2,
+   "first": "2026-11-19",
+   "uses": 3
+  },
+  {
+   "city": "Brașov",
+   "country": "Romania",
+   "folder": "Brasov",
+   "photos": 4,
+   "first": "2026-11-20",
+   "uses": 2
+  },
+  {
+   "city": "Luxor",
+   "country": "Egypt",
+   "folder": "Luxor",
+   "photos": 1,
+   "first": "2026-11-20",
+   "uses": 2
+  },
+  {
+   "city": "Bruges",
+   "country": "Belgium",
+   "folder": "Bruges",
+   "photos": 2,
+   "first": "2026-11-20",
+   "uses": 3
+  },
+  {
+   "city": "Toledo",
+   "country": "Spain",
+   "folder": "Toledo",
+   "photos": 1,
+   "first": "2026-11-21",
+   "uses": 3
+  },
+  {
+   "city": "Fes",
+   "country": "Morocco",
+   "folder": "Fes",
+   "photos": 1,
+   "first": "2026-11-21",
+   "uses": 3
+  },
+  {
+   "city": "Essaouira",
+   "country": "Morocco",
+   "folder": "Essaouira",
+   "photos": 6,
+   "first": "2026-11-21",
+   "uses": 5
+  },
+  {
+   "city": "Symi",
+   "country": "Greece",
+   "folder": "Symi",
+   "photos": 2,
+   "first": "2026-11-21",
+   "uses": 4
+  },
+  {
+   "city": "Ljubljana",
+   "country": "Slovenia",
+   "folder": "Ljubljana",
+   "photos": 7,
+   "first": "2026-11-21",
+   "uses": 3
+  },
+  {
+   "city": "Tirana",
+   "country": "Albania",
+   "folder": "Tirana",
+   "photos": 2,
+   "first": "2026-11-22",
+   "uses": 4
+  },
+  {
+   "city": "Gdańsk",
+   "country": "Poland",
+   "folder": "Gdansk",
+   "photos": 3,
+   "first": "2026-11-22",
+   "uses": 4
+  },
+  {
+   "city": "La Paz",
+   "country": "Bolivia",
+   "folder": "La Paz",
+   "photos": 2,
+   "first": "2026-11-23",
+   "uses": 1
+  },
+  {
+   "city": "Villefranche-sur-Mer",
+   "country": "France",
+   "folder": "Villefranche-sur-Mer",
+   "photos": 2,
+   "first": "2026-11-25",
+   "uses": 3
+  },
+  {
+   "city": "Interlaken",
+   "country": "Switzerland",
+   "folder": "Interlaken",
+   "photos": 1,
+   "first": "2026-11-28",
+   "uses": 2
+  },
+  {
+   "city": "Cape Town",
+   "country": "South Africa",
+   "folder": "Cape Town",
+   "photos": 2,
+   "first": "2026-11-28",
+   "uses": 2
+  },
+  {
+   "city": "Himarë",
+   "country": "Albania",
+   "folder": "Himare",
+   "photos": 1,
+   "first": "2026-11-29",
+   "uses": 3
+  },
+  {
+   "city": "Zakynthos",
+   "country": "Greece",
+   "folder": "Zakynthos",
+   "photos": 3,
+   "first": "2026-12-01",
+   "uses": 3
+  },
+  {
+   "city": "Sidi Bou Said",
+   "country": "Tunisia",
+   "folder": "Sidi Bou Said",
+   "photos": 5,
+   "first": "2026-12-01",
+   "uses": 3
+  },
+  {
+   "city": "Menorca",
+   "country": "Spain",
+   "folder": "Menorca",
+   "photos": 1,
+   "first": "2026-12-02",
+   "uses": 2
+  },
+  {
+   "city": "Paros",
+   "country": "Greece",
+   "folder": "Paros",
+   "photos": 3,
+   "first": "2026-12-04",
+   "uses": 2
+  },
+  {
+   "city": "Jaipur",
+   "country": "India",
+   "folder": "Jaipur",
+   "photos": 1,
+   "first": "2026-12-07",
+   "uses": 2
+  },
+  {
+   "city": "Reykjavik",
+   "country": "Iceland",
+   "folder": "Reykjavik",
+   "photos": 3,
+   "first": "2026-12-08",
+   "uses": 2
+  },
+  {
+   "city": "Baku",
+   "country": "Azerbaijan",
+   "folder": "Baku",
+   "photos": 3,
+   "first": "2026-12-08",
+   "uses": 2
+  },
+  {
+   "city": "Wrocław",
+   "country": "Poland",
+   "folder": "Wroclaw",
+   "photos": 3,
+   "first": "2026-12-19",
+   "uses": 1
+  },
+  {
+   "city": "Nuremberg",
+   "country": "Germany",
+   "folder": "Nuremberg",
+   "photos": 2,
+   "first": "2026-12-24",
+   "uses": 1
+  }
+ ],
+ "miss": [
+  {
+   "city": "Douro Valley",
+   "country": "Portugal",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-03",
+   "uses": 5
+  },
+  {
+   "city": "Kochi",
+   "country": "India",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-03",
+   "uses": 1
+  },
+  {
+   "city": "Salamanca",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-03",
+   "uses": 4
+  },
+  {
+   "city": "Lucca",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-03",
+   "uses": 4
+  },
+  {
+   "city": "Bukhara",
+   "country": "Uzbekistan",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-03",
+   "uses": 5
+  },
+  {
+   "city": "Sofia",
+   "country": "Bulgaria",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 1
+  },
+  {
+   "city": "Bangkok",
+   "country": "Thailand",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 3
+  },
+  {
+   "city": "Mexico City",
+   "country": "Mexico",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 3
+  },
+  {
+   "city": "Brno",
+   "country": "Czechia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 1
+  },
+  {
+   "city": "Padua",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 1
+  },
+  {
+   "city": "Sintra",
+   "country": "Portugal",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 5
+  },
+  {
+   "city": "Siwa",
+   "country": "Egypt",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-04",
+   "uses": 4
+  },
+  {
+   "city": "San Sebastián",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-05",
+   "uses": 4
+  },
+  {
+   "city": "Rothenburg ob der Tauber",
+   "country": "Germany",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-05",
+   "uses": 4
+  },
+  {
+   "city": "Cefalù",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-05",
+   "uses": 4
+  },
+  {
+   "city": "Lake Bled",
+   "country": "Slovenia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-05",
+   "uses": 4
+  },
+  {
+   "city": "Piešťany",
+   "country": "Slovakia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-05",
+   "uses": 1
+  },
+  {
+   "city": "Hévíz",
+   "country": "Hungary",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-05",
+   "uses": 2
+  },
+  {
+   "city": "Sighnaghi",
+   "country": "Georgia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Šibenik",
+   "country": "Croatia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-06",
+   "uses": 2
+  },
+  {
+   "city": "Yerevan",
+   "country": "Armenia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Chania",
+   "country": "Greece",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-06",
+   "uses": 5
+  },
+  {
+   "city": "Koh Samui",
+   "country": "Thailand",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-06",
+   "uses": 4
+  },
+  {
+   "city": "Corralejo",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-07",
+   "uses": 1
+  },
+  {
+   "city": "Špindlerův Mlýn",
+   "country": "Czechia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-07",
+   "uses": 1
+  },
+  {
+   "city": "Madrid",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-07",
+   "uses": 3
+  },
+  {
+   "city": "Milos",
+   "country": "Greece",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-08",
+   "uses": 3
+  },
+  {
+   "city": "Koh Lanta",
+   "country": "Thailand",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-08",
+   "uses": 3
+  },
+  {
+   "city": "Gjirokaster",
+   "country": "Albania",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-08",
+   "uses": 5
+  },
+  {
+   "city": "Sighișoara",
+   "country": "Romania",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-08",
+   "uses": 4
+  },
+  {
+   "city": "Granada",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-08",
+   "uses": 3
+  },
+  {
+   "city": "Lecce",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 5
+  },
+  {
+   "city": "São Miguel",
+   "country": "Portugal",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 4
+  },
+  {
+   "city": "Trenčín",
+   "country": "Slovakia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 1
+  },
+  {
+   "city": "Strasbourg",
+   "country": "France",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 2
+  },
+  {
+   "city": "Sinaia",
+   "country": "Romania",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 1
+  },
+  {
+   "city": "Bologna",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 4
+  },
+  {
+   "city": "Lake Maggiore",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-09",
+   "uses": 4
+  },
+  {
+   "city": "Faro",
+   "country": "Portugal",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Piedmont (Langhe)",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-10",
+   "uses": 3
+  },
+  {
+   "city": "Cuenca",
+   "country": "Ecuador",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-10",
+   "uses": 4
+  },
+  {
+   "city": "Karlovy Vary",
+   "country": "Czechia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-11",
+   "uses": 4
+  },
+  {
+   "city": "Umbria",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-11",
+   "uses": 4
+  },
+  {
+   "city": "Akureyri",
+   "country": "Iceland",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-11",
+   "uses": 3
+  },
+  {
+   "city": "Zagreb",
+   "country": "Croatia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-11",
+   "uses": 4
+  },
+  {
+   "city": "Siquijor Island",
+   "country": "Philippines",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-12",
+   "uses": 3
+  },
+  {
+   "city": "Lombok",
+   "country": "Indonesia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-12",
+   "uses": 5
+  },
+  {
+   "city": "Kefalonia",
+   "country": "Greece",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-12",
+   "uses": 2
+  },
+  {
+   "city": "Siena",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-13",
+   "uses": 4
+  },
+  {
+   "city": "Camogli",
+   "country": "Italy",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-14",
+   "uses": 5
+  },
+  {
+   "city": "Tórshavn",
+   "country": "Faroe Islands",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-14",
+   "uses": 4
+  },
+  {
+   "city": "Langkawi",
+   "country": "Malaysia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-15",
+   "uses": 3
+  },
+  {
+   "city": "Sarandë",
+   "country": "Albania",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-15",
+   "uses": 4
+  },
+  {
+   "city": "Budva",
+   "country": "Montenegro",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-15",
+   "uses": 3
+  },
+  {
+   "city": "Ghent",
+   "country": "Belgium",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-16",
+   "uses": 4
+  },
+  {
+   "city": "Siem Reap",
+   "country": "Cambodia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-16",
+   "uses": 3
+  },
+  {
+   "city": "Vienna",
+   "country": "Austria",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-16",
+   "uses": 2
+  },
+  {
+   "city": "Lefkada",
+   "country": "Greece",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-16",
+   "uses": 3
+  },
+  {
+   "city": "Da Lat",
+   "country": "Vietnam",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-17",
+   "uses": 4
+  },
+  {
+   "city": "Sapa",
+   "country": "Vietnam",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-17",
+   "uses": 3
+  },
+  {
+   "city": "Menton",
+   "country": "France",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-17",
+   "uses": 4
+  },
+  {
+   "city": "Palawan",
+   "country": "Philippines",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-17",
+   "uses": 2
+  },
+  {
+   "city": "Colmar",
+   "country": "France",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-18",
+   "uses": 3
+  },
+  {
+   "city": "Málaga",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-19",
+   "uses": 3
+  },
+  {
+   "city": "Brač",
+   "country": "Croatia",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-19",
+   "uses": 3
+  },
+  {
+   "city": "Segovia",
+   "country": "Spain",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-21",
+   "uses": 2
+  },
+  {
+   "city": "Mirissa",
+   "country": "Sri Lanka",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-22",
+   "uses": 2
+  },
+  {
+   "city": "Cusco",
+   "country": "Peru",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-27",
+   "uses": 3
+  },
+  {
+   "city": "Lake Balaton",
+   "country": "Hungary",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-11-28",
+   "uses": 2
+  },
+  {
+   "city": "Kaunas",
+   "country": "Lithuania",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-12-07",
+   "uses": 1
+  },
+  {
+   "city": "Dahab",
+   "country": "Egypt",
+   "folder": null,
+   "photos": 0,
+   "first": "2026-12-08",
+   "uses": 3
+  }
+ ]
+}

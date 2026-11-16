@@ -1,0 +1,744 @@
+{
+ "plan-d10-s1": {
+  "date": "2026-11-16",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027",
+  "cover": "Lisbon/f6_124.jpg",
+  "theme": "cr"
+ },
+ "plan-d11-s0": {
+  "date": "2026-11-16",
+  "slot": 1,
+  "title": "Shockingly Cheap Couples Trips That Look Luxury",
+  "cover": "Ohrid/f6_163.jpg",
+  "theme": "lr"
+ },
+ "plan-d11-s1": {
+  "date": "2026-11-17",
+  "slot": 0,
+  "title": "Romantic Trips That Are Surprisingly Cheap Hidden Gems Edition",
+  "cover": "Chefchaouen/f7_044.jpg",
+  "theme": "hr"
+ },
+ "plan-d12-s0": {
+  "date": "2026-11-17",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Solo Travel Edition",
+  "cover": "Porto/f5_166.jpg",
+  "theme": "s"
+ },
+ "plan-d12-s1": {
+  "date": "2026-11-18",
+  "slot": 0,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Gozo/f6_045.jpg",
+  "theme": "bh"
+ },
+ "plan-d13-s0": {
+  "date": "2026-11-18",
+  "slot": 1,
+  "title": "Shockingly Cheap Couples Trips for 2027 Honeymoon Edition",
+  "cover": "Dubrovnik/f6_005.jpg",
+  "theme": "r"
+ },
+ "plan-d13-s1": {
+  "date": "2026-11-19",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Honeymoon Edition",
+  "cover": "Wadi Rum/f4_002.jpg",
+  "theme": "r"
+ },
+ "plan-d14-s0": {
+  "date": "2026-11-19",
+  "slot": 1,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Zanzibar/f5_006.jpg",
+  "theme": "lr"
+ },
+ "plan-d14-s1": {
+  "date": "2026-11-20",
+  "slot": 0,
+  "title": "Cheap Places To Visit With Your Partner in 2027 Winter Sun Edition",
+  "cover": "Krabi/f5_197.jpg",
+  "theme": "rw"
+ },
+ "plan-d15-s0": {
+  "date": "2026-11-20",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Short Haul Edition",
+  "cover": "Istanbul/f4_008.jpg",
+  "theme": "cg"
+ },
+ "plan-d15-s1": {
+  "date": "2026-11-21",
+  "slot": 0,
+  "title": "6 Places That Look Expensive But Aren't",
+  "cover": "Nusa Penida/f4_165.webp",
+  "theme": "l"
+ },
+ "plan-d30-s1": {
+  "date": "2026-11-21",
+  "slot": 1,
+  "title": "Couples Escapes You Can Actually Afford Island Edition",
+  "cover": "Holbox/f6_314.jpg",
+  "theme": "ir"
+ },
+ "plan-d16-s1": {
+  "date": "2026-11-22",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Couples Edition",
+  "cover": "Tallinn/f4_123.jpg",
+  "theme": "r"
+ },
+ "plan-d17-s0": {
+  "date": "2026-11-22",
+  "slot": 1,
+  "title": "Places That Look Expensive... But Aren't",
+  "cover": "Santorini/b07_17.jpg",
+  "theme": "l"
+ },
+ "plan-d23-s0": {
+  "date": "2026-11-23",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Weekend Edition",
+  "cover": "Bergen/b06_07.webp",
+  "theme": "nx"
+ },
+ "plan-d18-s0": {
+  "date": "2026-11-23",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Family Edition",
+  "cover": "Tenerife/f6_041.jpg",
+  "theme": "y"
+ },
+ "plan-d18-s1": {
+  "date": "2026-11-24",
+  "slot": 0,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Perast/f3_063.jpg",
+  "theme": "ch"
+ },
+ "plan-d19-s0": {
+  "date": "2026-11-24",
+  "slot": 1,
+  "title": "Cheap Hidden Gems to Visit in 2027",
+  "cover": "Merzouga/f5_144.jpg",
+  "theme": "h"
+ },
+ "plan-d19-s1": {
+  "date": "2026-11-25",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Girls Trip Edition",
+  "cover": "Palermo/f6_146.jpg",
+  "theme": "g"
+ },
+ "plan-d20-s0": {
+  "date": "2026-11-25",
+  "slot": 1,
+  "title": "6 Places That Look Expensive But Aren't",
+  "cover": "Zanzibar/b10_20.jpg",
+  "theme": "l"
+ },
+ "plan-d20-s1": {
+  "date": "2026-11-26",
+  "slot": 0,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Ohrid/f3_019.avif",
+  "theme": "lr"
+ },
+ "plan-d21-s0": {
+  "date": "2026-11-26",
+  "slot": 1,
+  "title": "Cheap Places To Visit With Your Partner in 2027 City Edition",
+  "cover": "Budapest/f5_092.jpg",
+  "theme": "cr"
+ },
+ "plan-d21-s1": {
+  "date": "2026-11-27",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Solo Travel Edition",
+  "cover": "Chiang Mai/f5_196.jpg",
+  "theme": "s"
+ },
+ "plan-d22-s0": {
+  "date": "2026-11-27",
+  "slot": 1,
+  "title": "Cheap City Breaks You Can Actually Afford",
+  "cover": "Porto/f6_239.jpg",
+  "theme": "c"
+ },
+ "plan-d22-s1": {
+  "date": "2026-11-28",
+  "slot": 0,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Ksamil/b01_11.webp",
+  "theme": "hr"
+ },
+ "plan-d17-s1": {
+  "date": "2026-11-28",
+  "slot": 1,
+  "title": "Shockingly Affordable Couples Trips for 2027 Winter Sun Edition",
+  "cover": "Krabi/b07_09.webp",
+  "theme": "rw"
+ },
+ "plan-d23-s1": {
+  "date": "2026-11-29",
+  "slot": 0,
+  "title": "Places That Look Expensive... But Aren't",
+  "cover": "Madeira/b01_03.webp",
+  "theme": "l"
+ },
+ "plan-d24-s0": {
+  "date": "2026-11-29",
+  "slot": 1,
+  "title": "Shockingly Affordable Couples Trips for 2027",
+  "cover": "Chefchaouen/f3_042.webp",
+  "theme": "r"
+ },
+ "plan-d24-s1": {
+  "date": "2026-11-30",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Cold Edition",
+  "cover": "Hallstatt/f5_030.jpg",
+  "theme": "x"
+ },
+ "plan-d25-s0": {
+  "date": "2026-11-30",
+  "slot": 1,
+  "title": "Cheap Hidden Gems to Visit in 2027",
+  "cover": "Essaouira/f5_141.jpg",
+  "theme": "h"
+ },
+ "plan-d25-s1": {
+  "date": "2026-12-01",
+  "slot": 0,
+  "title": "6 Places That Look Expensive But Aren't",
+  "cover": "Coron/f6_090.jpg",
+  "theme": "l"
+ },
+ "plan-d26-s0": {
+  "date": "2026-12-01",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Christmas Markets Edition",
+  "cover": "Gdansk/f7_003.jpg",
+  "theme": "x"
+ },
+ "plan-d26-s1": {
+  "date": "2026-12-02",
+  "slot": 0,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Plitvice/f4_055.jpg",
+  "theme": "hl"
+ },
+ "plan-d27-s0": {
+  "date": "2026-12-02",
+  "slot": 1,
+  "title": "Think You Need a Huge Budget to Travel? Think Again",
+  "cover": "Hoi An/f4_171.jpg",
+  "theme": "cr"
+ },
+ "plan-d27-s1": {
+  "date": "2026-12-03",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Couples Edition",
+  "cover": "Krabi/f5_199.jpg",
+  "theme": "r"
+ },
+ "plan-d28-s0": {
+  "date": "2026-12-03",
+  "slot": 1,
+  "title": "Cheap City Breaks for 2027",
+  "cover": "Rhodes/f6_198.jpg",
+  "theme": "c"
+ },
+ "plan-d28-s1": {
+  "date": "2026-12-04",
+  "slot": 0,
+  "title": "Hidden Gems That Look Expensive But Are Shockingly Cheap",
+  "cover": "Nusa Penida/f7_048.jpg",
+  "theme": "hl"
+ },
+ "plan-d29-s0": {
+  "date": "2026-12-04",
+  "slot": 1,
+  "title": "Cheap Places To Visit With Your Partner in 2027",
+  "cover": "Zanzibar/f3_012.jpg",
+  "theme": "r"
+ },
+ "plan-d29-s1": {
+  "date": "2026-12-05",
+  "slot": 0,
+  "title": "6 Places More Romantic Than the Maldives (and Cheaper)",
+  "cover": "Zanzibar/b10_10.jpg",
+  "theme": "r"
+ },
+ "plan-d30-s0": {
+  "date": "2026-12-05",
+  "slot": 1,
+  "title": "Cheap Weekend City Breaks",
+  "cover": "Tallinn/f5_076.jpg",
+  "theme": "c"
+ },
+ "plan-d16-s0": {
+  "date": "2026-12-06",
+  "slot": 0,
+  "title": "Couples Escapes You Can Actually Afford Winter Sun Edition",
+  "cover": "Cartagena/f5_052.jpg",
+  "theme": "rw"
+ },
+ "plan-d31-s0": {
+  "date": "2026-12-06",
+  "slot": 1,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Pamukkale/f4_092.jpg",
+  "theme": "hn"
+ },
+ "plan-d31-s1": {
+  "date": "2026-12-07",
+  "slot": 0,
+  "title": "Cheap Hidden Gems to Visit in 2027",
+  "cover": "Kotor/f3_062.jpg",
+  "theme": "h"
+ },
+ "plan-d32-s0": {
+  "date": "2026-12-07",
+  "slot": 1,
+  "title": "Shockingly Affordable Couples Trips for 2027 Honeymoon Edition",
+  "cover": "Krabi/b03_14.jpg",
+  "theme": "r"
+ },
+ "plan-d32-s1": {
+  "date": "2026-12-08",
+  "slot": 0,
+  "title": "Think You Need a Huge Budget to Travel? Think Again",
+  "cover": "Goa/f5_096.jpg",
+  "theme": "cg"
+ },
+ "plan-d33-s0": {
+  "date": "2026-12-08",
+  "slot": 1,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Coron/b01_02.webp",
+  "theme": "hl"
+ },
+ "plan-d33-s1": {
+  "date": "2026-12-09",
+  "slot": 0,
+  "title": "Shockingly Cheap Couples Trips That Look Luxury",
+  "cover": "Perast/f6_075.jpg",
+  "theme": "lr"
+ },
+ "plan-d34-s0": {
+  "date": "2026-12-09",
+  "slot": 1,
+  "title": "Cheap City Breaks You Can Actually Afford",
+  "cover": "Krakow/f6_177.jpg",
+  "theme": "c"
+ },
+ "plan-d34-s1": {
+  "date": "2026-12-10",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Hidden Gems Edition",
+  "cover": "Luang Prabang/f3_035.jpg",
+  "theme": "h"
+ },
+ "plan-d35-s0": {
+  "date": "2026-12-10",
+  "slot": 1,
+  "title": "Shockingly Cheap Hidden Gems to Visit in 2027",
+  "cover": "La Paz/f5_035.jpg",
+  "theme": "h"
+ },
+ "plan-d35-s1": {
+  "date": "2026-12-11",
+  "slot": 0,
+  "title": "6 Places More Romantic Than Dubrovnik (and Cheaper)",
+  "cover": "Kotor/f4_194.jpg",
+  "theme": "r"
+ },
+ "plan-d36-s0": {
+  "date": "2026-12-11",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Nature Edition",
+  "cover": "Madeira/f5_165.jpg",
+  "theme": "n"
+ },
+ "plan-d36-s1": {
+  "date": "2026-12-12",
+  "slot": 0,
+  "title": "Romantic Trips That Are Surprisingly Cheap Beach Edition",
+  "cover": "Zanzibar/f6_049.webp",
+  "theme": "br"
+ },
+ "plan-d37-s0": {
+  "date": "2026-12-12",
+  "slot": 1,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Ohrid/b03_12.jpg",
+  "theme": "hl"
+ },
+ "plan-d37-s1": {
+  "date": "2026-12-13",
+  "slot": 0,
+  "title": "6 Places More Romantic Than Venice (and Cheaper)",
+  "cover": "Ljubljana/f6_029.jpg",
+  "theme": "r"
+ },
+ "plan-d38-s0": {
+  "date": "2026-12-13",
+  "slot": 1,
+  "title": "Cheap City Breaks for 2027",
+  "cover": "Da Nang/f6_318.jpg",
+  "theme": "c"
+ },
+ "plan-d38-s1": {
+  "date": "2026-12-14",
+  "slot": 0,
+  "title": "Cheap Hidden Gems to Visit in 2027",
+  "cover": "Nusa Penida/f5_001.jpg",
+  "theme": "h"
+ },
+ "plan-d39-s0": {
+  "date": "2026-12-14",
+  "slot": 1,
+  "title": "Places That Are Much Cheaper Than You Think",
+  "cover": "Zakynthos/f6_296.jpg",
+  "theme": "bl"
+ },
+ "plan-d39-s1": {
+  "date": "2026-12-15",
+  "slot": 0,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Sidi Bou Said/f4_146.jpg",
+  "theme": "lr"
+ },
+ "plan-d40-s0": {
+  "date": "2026-12-15",
+  "slot": 1,
+  "title": "6 Places That Look Expensive But Aren't",
+  "cover": "Petra/f3_028.webp",
+  "theme": "l"
+ },
+ "plan-d40-s1": {
+  "date": "2026-12-16",
+  "slot": 0,
+  "title": "6 Places More Romantic Than Paris (and Cheaper)",
+  "cover": "Valletta/f6_155.jpg",
+  "theme": "r"
+ },
+ "plan-d41-s0": {
+  "date": "2026-12-16",
+  "slot": 1,
+  "title": "Shockingly Cheap Couples Trips for 2027 Beach Edition",
+  "cover": "Villefranche-sur-Mer/f6_003.jpg",
+  "theme": "br"
+ },
+ "plan-d41-s1": {
+  "date": "2026-12-17",
+  "slot": 0,
+  "title": "Destinations That Are Much Cheaper Than You Think",
+  "cover": "Dubrovnik/b03_10.webp",
+  "theme": "cl"
+ },
+ "plan-d42-s0": {
+  "date": "2026-12-17",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Island Edition",
+  "cover": "Paros/b08_02.jpg",
+  "theme": "i"
+ },
+ "plan-d42-s1": {
+  "date": "2026-12-18",
+  "slot": 0,
+  "title": "6 Places More Romantic Than Rome (and Cheaper)",
+  "cover": "Mostar/b01_18.jpg",
+  "theme": "r"
+ },
+ "plan-d43-s0": {
+  "date": "2026-12-18",
+  "slot": 1,
+  "title": "Cheap Hidden Gems to Visit in 2027",
+  "cover": "Perast/b02_17.jpg",
+  "theme": "h"
+ },
+ "plan-d43-s1": {
+  "date": "2026-12-19",
+  "slot": 0,
+  "title": "Cheap City Breaks for 2027",
+  "cover": "Marrakech/b03_19.webp",
+  "theme": "c"
+ },
+ "plan-d44-s0": {
+  "date": "2026-12-19",
+  "slot": 1,
+  "title": "Hidden Gems That Look Expensive But Are Shockingly Cheap",
+  "cover": "Symi/b08_05.jpg",
+  "theme": "hl"
+ },
+ "plan-d44-s1": {
+  "date": "2026-12-20",
+  "slot": 0,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Ohrid/f4_150.jpg",
+  "theme": "hl"
+ },
+ "plan-d45-s0": {
+  "date": "2026-12-20",
+  "slot": 1,
+  "title": "Places That Are Much Cheaper Than You Think",
+  "cover": "Palermo/b05_03.jpg",
+  "theme": "cg"
+ },
+ "plan-d45-s1": {
+  "date": "2026-12-21",
+  "slot": 0,
+  "title": "Shockingly Cheap Hidden Gems to Visit in 2027",
+  "cover": "Aswan/f4_145.jpg",
+  "theme": "h"
+ },
+ "plan-d46-s0": {
+  "date": "2026-12-21",
+  "slot": 1,
+  "title": "Hidden Gems That Look Expensive But Are Shockingly Cheap",
+  "cover": "Coron/f5_160.jpg",
+  "theme": "hl"
+ },
+ "plan-d46-s1": {
+  "date": "2026-12-22",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027",
+  "cover": "Reykjavik/f6_195.jpg",
+  "theme": "gw"
+ },
+ "plan-d47-s0": {
+  "date": "2026-12-22",
+  "slot": 1,
+  "title": "Cheap Romantic Trips for Couples in 2027 Beach Edition",
+  "cover": "Ksamil/b04_13.jpg",
+  "theme": "br"
+ },
+ "plan-d47-s1": {
+  "date": "2026-12-23",
+  "slot": 0,
+  "title": "Cheap City Breaks for 2027",
+  "cover": "Gdansk/f3_005.webp",
+  "theme": "c"
+ },
+ "plan-d48-s0": {
+  "date": "2026-12-23",
+  "slot": 1,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Nusa Penida/f5_102.jpg",
+  "theme": "hl"
+ },
+ "plan-d48-s1": {
+  "date": "2026-12-24",
+  "slot": 0,
+  "title": "Shockingly Cheap Couples Trips That Look Luxury",
+  "cover": "Chefchaouen/f5_140.jpg",
+  "theme": "lr"
+ },
+ "plan-d49-s0": {
+  "date": "2026-12-24",
+  "slot": 1,
+  "title": "Places That Are Much Cheaper Than You Think",
+  "cover": "Tbilisi/f5_084.jpg",
+  "theme": "gr"
+ },
+ "plan-d49-s1": {
+  "date": "2026-12-25",
+  "slot": 0,
+  "title": "Couples Escapes You Can Actually Afford City Edition",
+  "cover": "Budapest/f7_011.jpg",
+  "theme": "cr"
+ },
+ "plan-d50-s0": {
+  "date": "2026-12-25",
+  "slot": 1,
+  "title": "Shockingly Cheap Hidden Gems to Visit in 2027",
+  "cover": "Essaouira/f6_047.jpg",
+  "theme": "h"
+ },
+ "plan-d50-s1": {
+  "date": "2026-12-26",
+  "slot": 0,
+  "title": "Cheap Weekend City Breaks",
+  "cover": "Prague/b06_12.jpg",
+  "theme": "c"
+ },
+ "plan-d51-s0": {
+  "date": "2026-12-26",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027 Hidden Gems Edition",
+  "cover": "Luang Prabang/f4_094.jpg",
+  "theme": "h"
+ },
+ "plan-d51-s1": {
+  "date": "2026-12-27",
+  "slot": 0,
+  "title": "6 Places More Romantic Than Bali (and Cheaper)",
+  "cover": "Villefranche-sur-Mer/f6_231.jpg",
+  "theme": "r"
+ },
+ "plan-d52-s0": {
+  "date": "2026-12-27",
+  "slot": 1,
+  "title": "Places That Look Expensive... But Aren't",
+  "cover": "Ljubljana/f6_028.jpg",
+  "theme": "l"
+ },
+ "plan-d52-s1": {
+  "date": "2026-12-28",
+  "slot": 0,
+  "title": "Shockingly Cheap Hidden Gems to Visit in 2027",
+  "cover": "Mostar/f6_210.jpg",
+  "theme": "h"
+ },
+ "plan-d53-s0": {
+  "date": "2026-12-28",
+  "slot": 1,
+  "title": "6 Places More Romantic Than Santorini (and Cheaper)",
+  "cover": "Mykonos/b08_09.jpg",
+  "theme": "r"
+ },
+ "plan-d53-s1": {
+  "date": "2026-12-29",
+  "slot": 0,
+  "title": "Cheap Romantic Trips for Couples in 2027 Hidden Gems Edition",
+  "cover": "Kotor/f5_137.jpg",
+  "theme": "hr"
+ },
+ "plan-d54-s0": {
+  "date": "2026-12-29",
+  "slot": 1,
+  "title": "Destinations That Are Much Cheaper Than You Think",
+  "cover": "Dubrovnik/f5_056.jpg",
+  "theme": "cg"
+ },
+ "plan-d54-s1": {
+  "date": "2026-12-30",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Beach Edition",
+  "cover": "Holbox/b10_19.jpg",
+  "theme": "b"
+ },
+ "plan-d55-s0": {
+  "date": "2026-12-30",
+  "slot": 1,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Ohrid/f5_152.jpg",
+  "theme": "hn"
+ },
+ "plan-d55-s1": {
+  "date": "2026-12-31",
+  "slot": 0,
+  "title": "Cheap Weekend City Breaks",
+  "cover": "Marrakech/f6_234.jpg",
+  "theme": "c"
+ },
+ "plan-d56-s0": {
+  "date": "2026-12-31",
+  "slot": 1,
+  "title": "Shockingly Cheap Hidden Gems to Visit in 2027",
+  "cover": "Nusa Penida/f6_179.jpg",
+  "theme": "h"
+ },
+ "plan-d56-s1": {
+  "date": "2027-01-01",
+  "slot": 0,
+  "title": "6 Places More Romantic Than the Amalfi Coast (and Cheaper)",
+  "cover": "Valletta/b05_10.jpg",
+  "theme": "r"
+ },
+ "plan-d57-s0": {
+  "date": "2027-01-01",
+  "slot": 1,
+  "title": "Destinations That Are Much Cheaper Than You Think",
+  "cover": "Gdansk/b06_01.jpg",
+  "theme": "gx"
+ },
+ "plan-d57-s1": {
+  "date": "2027-01-02",
+  "slot": 0,
+  "title": "Shockingly Cheap Couples Trips That Look Luxury",
+  "cover": "Paros/b11_03.webp",
+  "theme": "lr"
+ },
+ "plan-d58-s0": {
+  "date": "2027-01-02",
+  "slot": 1,
+  "title": "Cheap Places You've Never Heard Of",
+  "cover": "Belgrade/b05_07.jpg",
+  "theme": "gh"
+ },
+ "plan-d58-s1": {
+  "date": "2027-01-03",
+  "slot": 0,
+  "title": "Cheap City Breaks You Can Actually Afford",
+  "cover": "Lisbon/f6_010.jpg",
+  "theme": "c"
+ },
+ "plan-d59-s0": {
+  "date": "2027-01-03",
+  "slot": 1,
+  "title": "Cheap Places to Visit in 2027",
+  "cover": "Reykjavik/f5_094.jpg",
+  "theme": "nw"
+ },
+ "plan-d59-s1": {
+  "date": "2027-01-04",
+  "slot": 0,
+  "title": "Cheap Couples Trips for 2027 Island Edition",
+  "cover": "Zakynthos/b07_12.jpg",
+  "theme": "ir"
+ },
+ "plan-d08-s0": {
+  "date": "2027-01-04",
+  "slot": 1,
+  "title": "6 Cheap Places You've Never Heard Of",
+  "cover": "Chefchaouen/f4_079.jpg",
+  "theme": "lr"
+ },
+ "plan-d06-s1": {
+  "date": "2027-01-05",
+  "slot": 0,
+  "title": "Places That Look Expensive... But Aren't",
+  "cover": "Menorca/f5_184.png",
+  "theme": "l"
+ },
+ "plan-d07-s0": {
+  "date": "2027-01-05",
+  "slot": 1,
+  "title": "Shockingly Cheap Couples Trips for 2027 Hidden Gems Edition",
+  "cover": "Petra/f4_088.webp",
+  "theme": "hr"
+ },
+ "plan-d07-s1": {
+  "date": "2027-01-06",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Winter Sun Edition",
+  "cover": "Isla Mujeres/f6_316.jpg",
+  "theme": "w"
+ },
+ "plan-d09-s1": {
+  "date": "2027-01-06",
+  "slot": 1,
+  "title": "Hidden Gems That Look Expensive But Are Shockingly Cheap",
+  "cover": "Himare/f3_048.jpg",
+  "theme": "hl"
+ },
+ "plan-d09-s0": {
+  "date": "2027-01-07",
+  "slot": 0,
+  "title": "Cheap Places to Visit in 2027 Long Weekend Edition",
+  "cover": "Krakow/f5_161.jpg",
+  "theme": "cx"
+ },
+ "plan-d08-s1": {
+  "date": "2027-01-07",
+  "slot": 1,
+  "title": "Cheap Couples Trips for 2027 Beach Edition",
+  "cover": "Essaouira/f4_161.jpg",
+  "theme": "br"
+ }
+}
