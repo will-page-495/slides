@@ -47,12 +47,18 @@ async function zip(btn,v){const old=btn.textContent;btn.textContent='Preparingâ€
   const blob=await z.generateAsync({type:'blob'});await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_slides.zip',data:blob});btn.textContent='Saved'}
  catch(e){btn.textContent=(e&&e.code==='declined')?old:'Could not save: press and hold a slide'}
  btn.disabled=false;setTimeout(()=>btn.textContent=old,2500)}
+async function photos(btn,v){const old=btn.textContent;btn.disabled=true;
+ try{const dl=await claude.use('downloads');if(!dl){btn.textContent='Not available here: press and hold a slide';btn.disabled=false;return}
+  for(let n=0;n<v.slides.length;n++){const s=v.slides[n];btn.textContent='Saving '+(n+1)+' of '+v.slides.length+'â€¦';const r=await fetch(s.full);await dl.save({filename:v.date+'_'+v.time.replace(':','')+'_'+s.name,data:await r.blob()})}
+  btn.textContent='All saved'}
+ catch(e){btn.textContent=(e&&e.code==='declined')?'Stopped':'Could not save: press and hold a slide'}
+ btn.disabled=false;setTimeout(()=>btn.textContent=old,2500)}
 function card(v){const c=el('section','card');const h=el('div','head');h.append(el('span','time',v.time),el('h3','title',v.title));c.append(h);
  const s=el('div','strip');v.slides.forEach((x,i)=>{const a=el('a');a.href=x.full;a.target='_blank';a.rel='noopener';const im=new Image();im.src=x.th;im.alt='Slide '+(i+1)+' of '+v.slides.length;im.loading='lazy';a.append(im);s.append(a)});c.append(s);
- const b=el('div','btns');const z=el('button','primary','Download all 8 slides (zip)');z.onclick=()=>zip(z,v);
+ const b=el('div','btns');const z=el('button','','Download zip');z.onclick=()=>zip(z,v);
  const t=el('button','','Copy TikTok caption');t.dataset.k='tt';t.onclick=()=>copy(t,v.tiktok);
  const i=el('button','','Copy Instagram caption');i.dataset.k='ig';i.onclick=()=>copy(i,v.insta);
- const ti=el('button','','Copy title');ti.dataset.k='ti';ti.onclick=()=>copy(ti,v.title);b.append(z,t,i,ti);c.append(b);
+ const ti=el('button','','Copy title');ti.dataset.k='ti';ti.onclick=()=>copy(ti,v.title);const ph=el('button','primary','Save photos (camera roll)');ph.onclick=()=>photos(ph,v);b.append(ph,z,t,i,ti);c.append(b);
  c.append(el('p','hint','Slides are in posting order. On a phone, press and hold a slide to save it.'));
  for(const [k,l,tx] of [['tt','TikTok caption',v.tiktok],['ig','Instagram caption',v.insta],['ti','Title',v.title]]){const d=el('details');d.dataset.k=k;d.append(el('summary','',l),el('pre','',tx));c.append(d)}
  return c}
